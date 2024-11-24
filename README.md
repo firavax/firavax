@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firavax
+- Hi, I’m @firavax
 - Have a good day
 - Nice to see you
 
