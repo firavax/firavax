@@ -1,6 +1,6 @@
 - Hi, I’m @firavax
 - Have a good day
-- Nice to meet you
+- Nice to trade crypto today
 
 <!---
 firavax/firavax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
